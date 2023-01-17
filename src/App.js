@@ -52,7 +52,7 @@ const App = () => {
   }
   return (
     <main>
-      <Tours tours={tours} removeTour={removeTours} />
+      <Tours tours={tours} removeTours={removeTours} />
     </main>
   );
 };
